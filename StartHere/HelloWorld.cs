@@ -9,7 +9,7 @@ using System;
 //Namespace is the name of the folder where your project are
 namespace StartHere
 {
-    class Program
+    class HelloWorld
     {
         static void Main(string[] args)
         {
@@ -17,7 +17,7 @@ namespace StartHere
 
             Console.WriteLine("Hello World!");
 
-            //Wanto more things?
+            //Want more things?
 
             Console.WriteLine("My name is Rebeca Felix, nice to meet ya! \n Now you know how to jump line ;D");
             
